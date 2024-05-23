@@ -1,0 +1,2 @@
+
+streamlit run "C:\Users\JAFAR\Downloads\PROJECTS\MACHINE LEARNING PROJECTS\multiple-disease-prediction-using-Machine-Learning\multiple disease pred.py"
